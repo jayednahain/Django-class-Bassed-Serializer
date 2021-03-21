@@ -1,0 +1,3 @@
+create database studentdb_new
+use studentdb_new
+show tables
